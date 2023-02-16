@@ -129,3 +129,8 @@ body {
     width: 640px;
     height: 360px;
 }
+
+.modal.aberto {
+    opacity: 1;
+    visibility: visible;
+}
